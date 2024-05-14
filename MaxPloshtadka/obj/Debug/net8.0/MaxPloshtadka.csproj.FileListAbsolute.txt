@@ -1,0 +1,14 @@
+D:\homeworke\JaggedArray\MaxPloshtadka\bin\Debug\net8.0\MaxPloshtadka.exe
+D:\homeworke\JaggedArray\MaxPloshtadka\bin\Debug\net8.0\MaxPloshtadka.deps.json
+D:\homeworke\JaggedArray\MaxPloshtadka\bin\Debug\net8.0\MaxPloshtadka.runtimeconfig.json
+D:\homeworke\JaggedArray\MaxPloshtadka\bin\Debug\net8.0\MaxPloshtadka.dll
+D:\homeworke\JaggedArray\MaxPloshtadka\bin\Debug\net8.0\MaxPloshtadka.pdb
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.AssemblyInfoInputs.cache
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.AssemblyInfo.cs
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.csproj.CoreCompileInputs.cache
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.dll
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\refint\MaxPloshtadka.dll
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.pdb
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\MaxPloshtadka.genruntimeconfig.cache
+D:\homeworke\JaggedArray\MaxPloshtadka\obj\Debug\net8.0\ref\MaxPloshtadka.dll

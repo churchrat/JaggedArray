@@ -1,0 +1,14 @@
+D:\homeworke\JaggedArray\PascalPyramid\bin\Debug\net8.0\PascalPyramid.exe
+D:\homeworke\JaggedArray\PascalPyramid\bin\Debug\net8.0\PascalPyramid.deps.json
+D:\homeworke\JaggedArray\PascalPyramid\bin\Debug\net8.0\PascalPyramid.runtimeconfig.json
+D:\homeworke\JaggedArray\PascalPyramid\bin\Debug\net8.0\PascalPyramid.dll
+D:\homeworke\JaggedArray\PascalPyramid\bin\Debug\net8.0\PascalPyramid.pdb
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.AssemblyInfoInputs.cache
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.AssemblyInfo.cs
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.csproj.CoreCompileInputs.cache
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.dll
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\refint\PascalPyramid.dll
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.pdb
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\PascalPyramid.genruntimeconfig.cache
+D:\homeworke\JaggedArray\PascalPyramid\obj\Debug\net8.0\ref\PascalPyramid.dll
